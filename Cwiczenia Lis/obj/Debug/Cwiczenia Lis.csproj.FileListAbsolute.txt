@@ -1,0 +1,6 @@
+C:\Users\matma\source\repos\Cwiczenia Lis\bin\Debug\Cwiczenia Lis.exe.config
+C:\Users\matma\source\repos\Cwiczenia Lis\bin\Debug\Cwiczenia Lis.exe
+C:\Users\matma\source\repos\Cwiczenia Lis\bin\Debug\Cwiczenia Lis.pdb
+C:\Users\matma\source\repos\Cwiczenia Lis\obj\Debug\Cwiczenia Lis.csprojAssemblyReference.cache
+C:\Users\matma\source\repos\Cwiczenia Lis\obj\Debug\Cwiczenia Lis.exe
+C:\Users\matma\source\repos\Cwiczenia Lis\obj\Debug\Cwiczenia Lis.pdb
