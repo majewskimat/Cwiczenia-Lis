@@ -1,0 +1,6 @@
+C:\Users\matma\source\repos\Obiekty Cwiczenia\bin\Debug\Obiekty Cwiczenia.exe.config
+C:\Users\matma\source\repos\Obiekty Cwiczenia\bin\Debug\Obiekty Cwiczenia.exe
+C:\Users\matma\source\repos\Obiekty Cwiczenia\bin\Debug\Obiekty Cwiczenia.pdb
+C:\Users\matma\source\repos\Obiekty Cwiczenia\obj\Debug\Obiekty Cwiczenia.csprojAssemblyReference.cache
+C:\Users\matma\source\repos\Obiekty Cwiczenia\obj\Debug\Obiekty Cwiczenia.exe
+C:\Users\matma\source\repos\Obiekty Cwiczenia\obj\Debug\Obiekty Cwiczenia.pdb
