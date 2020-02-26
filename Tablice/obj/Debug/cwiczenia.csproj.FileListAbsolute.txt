@@ -1,0 +1,6 @@
+C:\Users\matma\source\repos\cwiczenia\bin\Debug\cwiczenia.exe.config
+C:\Users\matma\source\repos\cwiczenia\bin\Debug\cwiczenia.exe
+C:\Users\matma\source\repos\cwiczenia\bin\Debug\cwiczenia.pdb
+C:\Users\matma\source\repos\cwiczenia\obj\Debug\cwiczenia.csprojAssemblyReference.cache
+C:\Users\matma\source\repos\cwiczenia\obj\Debug\cwiczenia.exe
+C:\Users\matma\source\repos\cwiczenia\obj\Debug\cwiczenia.pdb
